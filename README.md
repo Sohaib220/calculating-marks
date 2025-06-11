@@ -36,6 +36,7 @@ This project is a simple system for **entering, calculating, and saving universi
 
 ## 📁 Project Structure
 
+```bash
 .
 ├── marks.py           # Main Gradio app for entering and saving grades
 ├── degres_check.py    # Script to print out all saved student records
@@ -45,7 +46,7 @@ This project is a simple system for **entering, calculating, and saving universi
 │   └── result-display.jpg
 
 ---
-
+```
 ## 📁 How to use it
 
 1. Download the two files (`marks.py` and `degres_check.py`) and open them in any Python editor.
@@ -56,7 +57,6 @@ This project is a simple system for **entering, calculating, and saving universi
 6. You can easily modify the code to match your own subjects or grading system — it's simple and flexible!
 7. Enjoy using it 🎉
    
-```bash
 ---
 
 Don't forgit to give me a ⭐ on this project if you liked it
