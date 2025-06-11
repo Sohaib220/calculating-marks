@@ -36,7 +36,7 @@ This project is a simple system for **entering, calculating, and saving universi
 
 ## 📁 Project Structure
 
-
+.
 ├── marks.py           # Main Gradio app for entering and saving grades
 ├── degres_check.py    # Script to print out all saved student records
 ├── grades.db          # SQLite database file (auto-created on first run)
@@ -55,7 +55,8 @@ This project is a simple system for **entering, calculating, and saving universi
 5. To view all saved data, run `degres_check.py` — make sure it's in the same directory as `grades.db`, or update the file path if needed.
 6. You can easily modify the code to match your own subjects or grading system — it's simple and flexible!
 7. Enjoy using it 🎉
-
+   
+```bash
 ---
 
 Don't forgit to give me a ⭐ on this project if you liked it
