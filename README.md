@@ -6,11 +6,11 @@ This project is a simple system for **entering, calculating, and saving universi
 
 ## 📸 Demo & Screenshots
 
-(media/Gradio-interface.png)  
+![](media/Gradio-interface.png)  
 
 ---
 
-(media/display-of-database.png)
+![](media/display-of-database.png)
 
 ---
 
