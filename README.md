@@ -47,15 +47,15 @@ This project is a simple system for **entering, calculating, and saving universi
 
 ---
 
-## 📁 How to use it
+## 📁 How to Use It
 
-1. Download the two files and put it in any python editor.
-2. Run the file marks.py it will give you two links local and public you can use the public link to share it with others and let them use it.
-3. after any one use it you will notice that there is a new file that have been created in the same directory of the mark.py file which is the grades.db.
-4. the grades.db will automaticlly save all the responses of the users.
-5. after you finish you can run the file degres_check.py to read all the data in grades.db make sure the path is correct.
-6. you can modify it to match your materials it is simple.
-7. have fun.
+1. Download the two files (`marks.py` and `degres_check.py`) and open them in any Python editor.
+2. Run `marks.py` — it will give you two links (local and public). You can share the **public link** with others so they can use the system.
+3. Once someone uses the app, a new file named `grades.db` will be created automatically in the same folder as `marks.py`.
+4. The `grades.db` file automatically saves all user responses and grades locally.
+5. To view all saved data, run `degres_check.py` — make sure it's in the same directory as `grades.db`, or update the file path if needed.
+6. You can easily modify the code to match your own subjects or grading system — it's simple and flexible!
+7. Enjoy using it 🎉
 
 ---
 
