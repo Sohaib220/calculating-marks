@@ -6,8 +6,11 @@ This project is a simple system for **entering, calculating, and saving universi
 
 ## 📸 Demo & Screenshots
 
-🖼️ ![Gradio Form Example](media/Gradio-interface.png)  
-🖼️ ![Result Display Example](media/display-of-database.png)
+(media/Gradio-interface.png)  
+
+---
+
+(media/display-of-database.png)
 
 ---
 
@@ -56,6 +59,7 @@ This project is a simple system for **entering, calculating, and saving universi
 
 ---
 
+Don't forgit to give me a ⭐ on this project if you liked it
 
 
 
